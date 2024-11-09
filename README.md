@@ -25,5 +25,5 @@ Both services are configured to use persistent volumes, so your data remains int
 Clone the repository to your local machine:
 
 ```bash
-git clone [[https://github.com/yourusername/wordpress-docker-compose.git]()](https://github.com/Gowdhamraman/Docker.git)
+git clone https://github.com/Gowdhamraman/Docker.git
 cd Docker
